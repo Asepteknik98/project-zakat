@@ -1,4 +1,4 @@
-# project-zakat
+# aplikasi pembayaran zakat online
 # project uts
-# contribusi 5 mahasiswa
+# contribusi 6 mahasiswa
 # Asep Setiadi, Saifullah, Isra, Hasan, Dimas, Aisyah
